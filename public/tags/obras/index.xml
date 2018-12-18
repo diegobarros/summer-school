@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Obras on Escola de Verão Una</title>
+    <link>teste.com/tags/obras/</link>
+    <description>Recent content in Obras on Escola de Verão Una</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 16 Jan 2019 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="teste.com/tags/obras/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Canteiro de Obras</title>
+      <link>teste.com/blog/canteiro_de_obras/</link>
+      <pubDate>Wed, 16 Jan 2019 13:50:46 +0200</pubDate>
+      
+      <guid>teste.com/blog/canteiro_de_obras/</guid>
+      <description>A oficina de canteiro com obras busca desenvolver habilidades que resolvam situações-problema envolvendo conhecimentos em unidades de medida, avaliação da razoabilidade das medidas de área na construção de HB argumentos e identificação de caracteristicas de figuras planas para realização de intervenções em determinado espaço. Tudo isso com base nas competências e requerimentos do enem.
+Local Sala 336
+Duração 3 horas</description>
+    </item>
+    
+  </channel>
+</rss>

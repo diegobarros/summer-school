@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Escola de Verão Una</title>
+    <link>teste.com/blog/</link>
+    <description>Recent content in Blogs on Escola de Verão Una</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 16 Jan 2019 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="teste.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Canteiro de Obras</title>
+      <link>teste.com/blog/canteiro_de_obras/</link>
+      <pubDate>Wed, 16 Jan 2019 13:50:46 +0200</pubDate>
+      
+      <guid>teste.com/blog/canteiro_de_obras/</guid>
+      <description>A oficina de canteiro com obras busca desenvolver habilidades que resolvam situações-problema envolvendo conhecimentos em unidades de medida, avaliação da razoabilidade das medidas de área na construção de HB argumentos e identificação de caracteristicas de figuras planas para realização de intervenções em determinado espaço. Tudo isso com base nas competências e requerimentos do enem.
+Local Sala 336
+Duração 3 horas</description>
+    </item>
+    
+    <item>
+      <title>Redes Sociais e Consequências Jurídicas</title>
+      <link>teste.com/blog/consequencia_juridica_rede_social/</link>
+      <pubDate>Thu, 17 Jan 2019 13:50:46 +0200</pubDate>
+      
+      <guid>teste.com/blog/consequencia_juridica_rede_social/</guid>
+      <description>Consequências jurídicas do uso inadequado das redes sociais
+Local Duração 1 hora</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento de Websites</title>
+      <link>teste.com/blog/desenvolvimento_site/</link>
+      <pubDate>Wed, 23 Jan 2019 13:50:46 +0200</pubDate>
+      
+      <guid>teste.com/blog/desenvolvimento_site/</guid>
+      <description>Local Laboratório 323
+Duração 3 horas</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento de Jogos</title>
+      <link>teste.com/blog/desenvolvimento_jogos/</link>
+      <pubDate>Thu, 24 Jan 2019 13:50:46 +0200</pubDate>
+      
+      <guid>teste.com/blog/desenvolvimento_jogos/</guid>
+      <description>Aprenda a criar um jogo numa oficina prática com o RPG Maker. Prática, gratuita e sem Pré requisitos
+Local Laboratório 323
+Duração 3 horas</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento Móvel</title>
+      <link>teste.com/blog/desenvolvimento_movel/</link>
+      <pubDate>Wed, 23 Jan 2019 13:50:46 +0200</pubDate>
+      
+      <guid>teste.com/blog/desenvolvimento_movel/</guid>
+      <description>Local Laboratório 323
+Duração 3 horas</description>
+    </item>
+    
+    <item>
+      <title>Mercado 4.0</title>
+      <link>teste.com/blog/mercado_40/</link>
+      <pubDate>Wed, 30 Jan 2019 13:50:46 +0200</pubDate>
+      
+      <guid>teste.com/blog/mercado_40/</guid>
+      <description>O grande desafio hoje do mercado de trabalho é trabalhar as competências do Século XXI. O profissional não deve se ater apenas a sua capacidade técnica, muito pelo contrario, com a Inteligência artificial e o avanço da tecnologia, as competências emocionais chamadas de soft skills são cada vez mais valorizadas nas empresas. Dia te disto, um profissional que as desenvolve se torna um diferencial no Mercado de Trabalho. Você quer se destacar e trabalhar suas habilidades emocionais?</description>
+    </item>
+    
+    <item>
+      <title>Primeiros Socorros: Queimaduras</title>
+      <link>teste.com/blog/primeiro_socorros/</link>
+      <pubDate>Thu, 31 Jan 2019 13:50:46 +0200</pubDate>
+      
+      <guid>teste.com/blog/primeiro_socorros/</guid>
+      <description>As queimaduras são lesões decorrentes de agentes (tais como a energia térmica, química ou elétrica) capazes de produzir calor excessivo que danifica os tecidos corporais e acarreta a morte celular. Tais agravos podem ser classificados como queimaduras de primeiro grau, de segundo grau ou de terceiro grau. Saber o que faze é essencial venha aprender com a gente !!!
+Cronograma do curso:
+ INTRODUÇÃO FUNÇÕES DA PELE TIPOS DE QUEIMADURAS CLASSIFICAÇÃO DAS QUEIMADURAS CUIDADOS IMEDIATOS TRATAMENTO CUIDADOS DE ENFERMAGEM AO DOENTE QUEIMADO  </description>
+    </item>
+    
+  </channel>
+</rss>

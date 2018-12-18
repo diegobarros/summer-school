@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Escola de Verão Una</title>
+    <link>teste.com/tags/web/</link>
+    <description>Recent content in Web on Escola de Verão Una</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 23 Jan 2019 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="teste.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Desenvolvimento de Websites</title>
+      <link>teste.com/blog/desenvolvimento_site/</link>
+      <pubDate>Wed, 23 Jan 2019 13:50:46 +0200</pubDate>
+      
+      <guid>teste.com/blog/desenvolvimento_site/</guid>
+      <description>Local Laboratório 323
+Duração 3 horas</description>
+    </item>
+    
+  </channel>
+</rss>
