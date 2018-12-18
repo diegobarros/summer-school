@@ -1,10 +1,10 @@
 +++
 title = "Desenvolvimento de Jogos"
-date = "2019-01-31T13:50:46+02:00"
+date = "2019-01-24T13:50:46+02:00"
 tags = ["tecnologia", "desenvolvimento", "jogos", "rpg"]
 categories = ["oficinas"]
 banner = "img/banners/desenvolvimento_jogos.jpg"
-weight = 6
+weight = 4
 +++
 
 

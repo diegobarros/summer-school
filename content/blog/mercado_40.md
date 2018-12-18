@@ -1,6 +1,6 @@
 +++
 title = "Mercado 4.0"
-date = "2019-01-29T13:50:46+02:00"
+date = "2019-01-30T13:50:46+02:00"
 tags = ["tecnologia", "engenharia", "mercado", "trabalho", "indústria"]
 categories = ["oficinas"]
 banner = "img/banners/mercado_4.jpg"
