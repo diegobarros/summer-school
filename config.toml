@@ -2,8 +2,6 @@ baseurl = "teste.com"
 title = "Escola de Verão Una"
 theme = "hugo-universal-theme"
 buildFuture = true
-relativeURLs = true
-uglyURLs = true
 
 
 languageCode = "pt-br"
@@ -75,7 +73,7 @@ address = """<p><strong>Una Barreiro - Instituição de Ensino</strong>
     icon = "fa fa-arrow-down"
     title = "Escola de Verão"
     subtitle = "Una Barreiro | 2019"
-    link_url = "http://your-site.com/more"
+    link_url = "https://www.eventosgofree.com/escola-de-verao_791"
     link_text = "Inscreva-se"
 
 [params.recent_posts]
