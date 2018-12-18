@@ -1,4 +1,4 @@
-baseurl = "//"
+baseurl = "teste.com"
 title = "Escola de Verão Una"
 theme = "hugo-universal-theme"
 buildFuture = true
