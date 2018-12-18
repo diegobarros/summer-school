@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mercado on Escola de Verão Una</title>
+    <link>/tags/mercado.html</link>
+    <description>Recent content in Mercado on Escola de Verão Una</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 29 Jan 2019 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/mercado/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mercado 4.0</title>
+      <link>/blog/mercado_40.html</link>
+      <pubDate>Tue, 29 Jan 2019 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/mercado_40.html</guid>
+      <description>O grande desafio hoje do mercado de trabalho é trabalhar as competências do Século XXI. O profissional não deve se ater apenas a sua capacidade técnica, muito pelo contrario, com a Inteligência artificial e o avanço da tecnologia, as competências emocionais chamadas de soft skills são cada vez mais valorizadas nas empresas. Dia te disto, um profissional que as desenvolve se torna um diferencial no Mercado de Trabalho. Você quer se destacar e trabalhar suas habilidades emocionais?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,84 @@
+baseurl = "//"
+title = "Escola de Verão Una"
+theme = "hugo-universal-theme"
+buildFuture = true
+relativeURLs = true
+uglyURLs = true
+
+
+languageCode = "pt-br"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "pt-br"
+# Enable comments by entering your Disqus shortname
+# disqusShortname = "devcows"
+# Enable Google Analytics by entering your tracking code
+# googleAnalytics = ""
+
+# Define the number of posts per page
+paginate = 10
+
+
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    name = "Início"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Oficinas"
+    url  = "/categories/oficinas/"
+    weight = 2
+
+[[menu.main]]
+    name = "FAQ"
+    identifier = "faq"
+    url  = "/faq/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contato"
+    url  = "/contact/"
+    weight = 4
+
+[params]
+
+style = "red"
+author = "Diego Augusto Barros"
+defaultKeywords = ["tecnologia", "engenharia", "computação", "ensino", "curso", "férias", "una"]
+defaultDescription = "Site da Escola de Verão da Una Barreiro"
+
+
+about_us = "<p>A Una Barreiro está localizada na principal avenida do Barreiro, em frente ao Viashopping. A unidade reune cursos de Bacharelado, tecnólogo e Pós Graduação.</p>"
+copyright = "Copyright © 2018, Ânima Educação. Todos os direitos reservados."
+date_format = "02/01/2006"
+
+logo = "img/logo.svg"
+logo_small = "img/logo.svg"
+    
+address = """<p><strong>Una Barreiro - Instituição de Ensino</strong>
+        <br>Av. Afonso Vaz de Melo, 465
+        <br>Barreiro, Belo Horizonte - MG
+        <strong><br>30640-070</strong>
+      </p>
+      """
+
+#googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"      
+#latitude = "-19.975553"
+#longitude = "-44.020248"
+
+[params.see_more]
+    enable = true
+    icon = "fa fa-arrow-down"
+    title = "Escola de Verão"
+    subtitle = "Una Barreiro | 2019"
+    link_url = "http://your-site.com/more"
+    link_text = "Inscreva-se"
+
+[params.recent_posts]
+enable = true
+    title = "Oficinas"
+    subtitle = "Sempre é tempo de aprender! Aproveite o verão para se capacitar através  de ferramentas e oficinas mão na massa que vão permitir um contato direto com as áreas de tecnologia, engenharia e arquitetura."
